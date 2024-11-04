@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anfas Mehaboob</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anfasmehaboob&label=Profile%20views&color=0e75b6&style=flat" alt="anfasmehaboob" /> </p>
