@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anfasmehaboob&label=Profile%20views&color=0e75b6&style=flat" alt="anfasmehaboob" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anfasmehaboob" alt="anfasmehaboob" /></a> </p>
+
 ### Full-Stack Developer 
 
 I build scalable web applications with modern JavaScript technologies. Currently developing AI-powered document retrieval systems at Trojan Construction Group, focusing on creating efficient and user-friendly solutions.
