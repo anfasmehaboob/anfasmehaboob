@@ -6,40 +6,40 @@
 
 ### Full-Stack Developer 
 
-I build scalable web applications with modern JavaScript technologies. Currently developing AI-powered document retrieval systems at Trojan Construction Group, focusing on creating efficient and user-friendly solutions.
+I build scalable web applications with modern  technologies. Currently developing AI-powered Applications at Trojan Construction Group, focusing on creating efficient and user-friendly solutions.
 
 ---
 
 ### 🚀 What I'm Working On
 
-- **Golden Record Retriever** - An LLM-powered document search and retrieval system for construction data
-- Expanding my expertise in Node.js advanced patterns and Flutter for cross-platform mobile development
-- Contributing to open-source projects and building tools that solve real-world problems
+- **AI-Powered Candidate Shortlisting System** - Automated recruitment pipeline using Azure Logic Apps and Node.js that extracts candidate information from recruiter emails, matches them against job descriptions, and identifies top candidates
+- **Intelligent Company Information Assistant** - Interactive AI avatar (HeyGen) powered by Azure LLM and NLP that answers company-related questions in real-time through text or voice, with live streaming responses
+- Expanding my expertise in Azure AI services, Logic Apps automation, and real-time streaming technologies
 
 ---
 
 ### 💻 Technical Skills
 
+### 💻 Technical Skills
+
 **Frontend:** React, React Native, TypeScript, Redux, Tailwind CSS, SASS, Bootstrap  
 **Backend:** Node.js, Django, GraphQL, PostgreSQL, MongoDB, MSSQL  
+**AI & Cloud:** Azure AI Services, Azure Logic Apps, LLM Integration, NLP, HeyGen Avatar API  
 **Tools & Platforms:** Git, Firebase, Jest, Postman, Figma, Linux, Babel  
-**Currently Learning:** Advanced Node.js architecture, Flutter
+**Currently Exploring:**Advanced Node.js architecture,  Advanced Azure AI workflows
 
 ---
 
 ### 🎯 Featured Projects
 
-**[Project Name 1](#)** - Brief description of what it does (1-2 sentences)
-- **Tech Stack:** React, Node.js, MongoDB
-- **Key Feature:** What makes this project stand out
+**[AI Candidate Shortlisting System](#)** - Automated recruitment system that intelligently matches candidates with job requirements
+- **Tech Stack:** Node.js, Azure Logic Apps, Azure AI Services
+- **Key Feature:** Automated email parsing and AI-powered candidate-JD matching with ranking
 
-**[Project Name 2](#)** - Brief description of what it does (1-2 sentences)
-- **Tech Stack:** React Native, Firebase, TypeScript
-- **Key Feature:** What makes this project stand out
+**[Interactive Company AI Assistant](#)** - Real-time AI avatar that answers company information queries through voice and text
+- **Tech Stack:** Azure LLM, NLP, HeyGen Avatar API, Real-time Streaming
+- **Key Feature:** Live conversational AI with avatar interaction supporting both text and audio input
 
-**[Project Name 3](#)** - Brief description of what it does (1-2 sentences)
-- **Tech Stack:** Django, PostgreSQL, GraphQL
-- **Key Feature:** What makes this project stand out
 
 👉 **View all projects:** [anfasmehaboob.com](https://www.anfasmehaboob.com/)
 
