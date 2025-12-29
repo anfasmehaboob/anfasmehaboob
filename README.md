@@ -20,8 +20,6 @@ I build scalable web applications with modern  technologies. Currently developin
 
 ### 💻 Technical Skills
 
-### 💻 Technical Skills
-
 **Frontend:** React, React Native, TypeScript, Redux, Tailwind CSS, SASS, Bootstrap  
 **Backend:** Node.js, Django, GraphQL, PostgreSQL, MongoDB, MSSQL  
 **AI & Cloud:** Azure AI Services, Azure Logic Apps, LLM Integration, NLP, HeyGen Avatar API  
